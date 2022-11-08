@@ -1,1 +1,2 @@
-# QtPasswordsManager
+# QtPasswordsManager - Менеджер паролей
+Обычный менеджер паролей с возможностью генерации пароля :D
